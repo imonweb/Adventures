@@ -10,6 +10,7 @@ html {
   font-family: 'Nunito', sans-serif;
   font-size: 10px;
   box-sizing: border-box;
+  /* background-color: salmon; */
 }
 
 a {
@@ -71,7 +72,7 @@ nav {
 
 .close i {
   color: #eb648c;
-  
+
 }
 
 
